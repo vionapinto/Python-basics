@@ -4,3 +4,6 @@
 [submodule "1-python-introduction-hello_world_and_comments-vionapinto"]
 	path = 1-python-introduction-hello_world_and_comments-vionapinto
 	url = git@github.com:fbw-p22-e3-assignments/1-python-introduction-hello_world_and_comments-vionapinto.git
+[submodule "3-python-introduction-basic_contr-vionapinto"]
+	path = 3-python-introduction-basic_contr-vionapinto
+	url = git@github.com:fbw-p22-e3-assignments/3-python-introduction-basic_contr-vionapinto.git
