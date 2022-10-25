@@ -7,3 +7,6 @@
 [submodule "3-python-introduction-basic_contr-vionapinto"]
 	path = 3-python-introduction-basic_contr-vionapinto
 	url = git@github.com:fbw-p22-e3-assignments/3-python-introduction-basic_contr-vionapinto.git
+[submodule "4-python-introduction-comparison_operators-vionapinto"]
+	path = 4-python-introduction-comparison_operators-vionapinto
+	url = git@github.com:fbw-p22-e3-assignments/4-python-introduction-comparison_operators-vionapinto.git
