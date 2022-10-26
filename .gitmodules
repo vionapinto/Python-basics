@@ -10,3 +10,6 @@
 [submodule "4-python-introduction-comparison_operators-vionapinto"]
 	path = 4-python-introduction-comparison_operators-vionapinto
 	url = git@github.com:fbw-p22-e3-assignments/4-python-introduction-comparison_operators-vionapinto.git
+[submodule "5-python-introduction-conditional_statements-vionapinto"]
+	path = 5-python-introduction-conditional_statements-vionapinto
+	url = git@github.com:fbw-p22-e3-assignments/5-python-introduction-conditional_statements-vionapinto.git
